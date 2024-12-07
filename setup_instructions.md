@@ -3,7 +3,10 @@
 ## Prerequisites  
 - Python 3.7 or later  
 - Jupyter Notebook or JupyterLab installed  
-- Internet connection for installing dependencies  
+- Internet connection for installing dependencies
+-  Download the Jupyter Notebooks in the repository to your local machine.
+- Ensure you have a working Python environment (Python 3.7 or later).
+- Make sure to install the necessary dependencies (which is outlined in requirements.txt).
 
 ## Steps to Set Up the Environment  
 
