@@ -1,0 +1,26 @@
+# Core packages and Libraries 
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+sklearn
+yfinance
+scipy
+statsmodels
+pylab
+
+
+# Dependencies to be installed for each notebook
+#  Data_Collection.ipynb 
+praw
+
+#  Sentiment_Analysis_and_Merging.ipynb
+textblob
+
+# Model1_ARIMA.ipynb
+pmdarima
+
+# Model2_Sentiment_based_forecast.ipynb
+lightgbm
+catboost
