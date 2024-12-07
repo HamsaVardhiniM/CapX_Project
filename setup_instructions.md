@@ -15,7 +15,7 @@
 ## Install Required Libraries and verify installation
    ```bash
   pip install -r requirements.txt
-  import numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, plotly
+  import numpy, pandas, matplotlib, seaborn, sklearn, statsmodels, plotly, yfinance,scipy,statsmodels,pylab
   print("All libraries installed successfully!")
 
 
