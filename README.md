@@ -71,9 +71,7 @@ The project is structured into **7 phases**, each encapsulated in a Jupyter note
 
 ---
 
-## Links  
-- **GitHub Repository**: [Insert Link]  
-- **Demo Video**: [Insert Link]  
+ 
 
 
 
